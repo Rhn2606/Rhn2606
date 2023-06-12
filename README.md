@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Javascript, React, C++, Solidity**
 
-- 💬 Ask me about **Blockchain, Web3**
+- 💬 Ask me about **Blockchain, Web3, Web Devlopment**
 
 - 📫 How to reach me **redkarrohan2002@gmail.com**
 
