@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 
-- 🌱 I’m currently learning **Javascript, React, C++, Solidity**
+- 🌱 I’m currently learning **Golang , Devops**
 
-- 💬 Ask me about **Blockchain, Web3, Web Devlopment**
 
-- 📫 How to reach me **redkarrohan2002@gmail.com**
+- 📫 How to reach me **rhn.dev26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
